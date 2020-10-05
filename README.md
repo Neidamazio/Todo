@@ -3,3 +3,5 @@ Projeto "Todo" criado em sala de aula junto com o professor da disciplina de Rea
 Serratec - Residência de Software 2020
 
 Turma Teresópolis - 09
+
+Deus é fiel!
